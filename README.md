@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raunak Rajendra Mankapure</h1>
-<h3 align="center">I am a pre final year computer science student @ SITCOE. I am grasping and working on various technologies like cybersecurity, java, databases, front end dev, flutter dev i have implemented the knowledge via creating the project and participating with my team in SMART INDIA HACKATHON 2023, DIPEX EXPO 2024. Highly passionate in Cybersec and Java development 
-You can check me on LinkedIn, http://www.linkedin.com/in/raunak-mankapure8010535634 Don’t worry, i know its not “https” or any phishing link😂 or you can simply search me on LinkedIn with my good name</h3>
+<h3 align="center">I am a pre final year computer science student @ SITCOE. I am grasping and working on various technologies like cybersecurity, java, databases, front end dev, flutter dev.
+I have implemented the knowledge via creating the project and participating with my team in SMART INDIA HACKATHON 2023, DIPEX EXPO 2024. Highly passionate in Cybersec and Java development.
+You can check me on LinkedIn, http://www.linkedin.com/in/raunak-mankapure8010535634 
+  
+Don’t worry, i know its not “https” or any phishing link😂 or you can simply search me on LinkedIn with my good name</h3>
 
 - 🌱 I’m currently learning **Data structures & algos**
 

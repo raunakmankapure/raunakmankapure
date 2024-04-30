@@ -3,7 +3,7 @@
 I have implemented the knowledge via creating the project and participating with my team in SMART INDIA HACKATHON 2023, DIPEX EXPO 2024. Highly passionate in Cybersec and Java development.
 You can check me on LinkedIn, http://www.linkedin.com/in/raunak-mankapure8010535634 
   
-Don’t worry, i know its not “https” or any phishing link😂 or you can simply search me on LinkedIn with my good name</h3>
+Don’t worry, i know its not “https” or any phishing link😂. You can simply search me on LinkedIn with my good name</h3>
 
 - 🌱 I’m currently learning **Data structures & algos**
 
